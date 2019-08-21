@@ -29,6 +29,30 @@
             "responsible": "Francisco",
             "description": "Tarea Prueba 5",
             "priority": "Baja"
+        },
+        {
+            "title": "Tarea 6",
+            "responsible": "José",
+            "description": "Tarea Prueba 6",
+            "priority": "Media"
+        },
+        {
+            "title": "Tarea 7",
+            "responsible": "Carlos",
+            "description": "Tarea Prueba 7",
+            "priority": "Alta"
+        },
+        {
+            "title": "Tarea 8",
+            "responsible": "Cristobal",
+            "description": "Tarea Prueba 8",
+            "priority": "Media"
+        },
+        {
+            "title": "Tarea 9",
+            "responsible": "Rodrigo",
+            "description": "Tarea Prueba 9",
+            "priority": "Baja"
         }
     ]
 }
